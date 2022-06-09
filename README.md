@@ -2,7 +2,7 @@
 
 ## License
 
-This work is licensed under the CC0 1.0 Universal license terms. Refer to the License.html file in this directory for details.
+This work is licensed under the CC0 1.0 Universal license terms. Refer to the License file in this directory for details.
 
 ## Quick Start
 
