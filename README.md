@@ -1,4 +1,5 @@
-# RAIL-MOUNTED PHONE HOLDER [web](https://www.rail-mounted.com)
+# RAIL-MOUNTED PHONE HOLDER
+[rail-mounted website](https://www.rail-mounted.com)
 
 ## License
 
