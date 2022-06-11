@@ -12,23 +12,23 @@ This work is licensed under the CC0 1.0 Universal license terms. Refer to the Li
 
 | Index | STL File Name | Material |
 | ----- | ------------- | -------- |
-| 1     | base.stl                 | PETG |
-| 2     | slider-bracket.stl       | PC   |
-| 3     | slider.stl               | PETG |
-| 4     | slider-lock.stl          | PC   |
-| 5     | axle.stl                 | PC   |
-| 6     | -                        | PETG |
-| 7     | arm-bracket.stl          | PC   |
-| 8     | arm-top.stl              | PC   |
-| 9     | holder-insert-mag.stl    | PETG |
-| 10    | holder-insert-no-mag.stl | PETG |
-| 11    | holder-bracket.stl       | PC   |
-| 12    | arm.stl                  | PC   |
-| 13    | slider-connector.stl     | PC   |
+| 1     | base.stl                 | Prusament PETG |
+| 2     | slider-bracket.stl       | Prusament PC Blend |
+| 3     | slider.stl               | Prusament PETG |
+| 4     | slider-lock.stl          | Prusament PC Blend |
+| 5     | axle.stl                 | Prusament PC Blend |
+| 6     | -                        | Prusament PETG |
+| 7     | arm-bracket.stl          | Prusament PC Blend |
+| 8     | arm-top.stl              | Prusament PC Blend |
+| 9     | holder-insert-mag.stl    | Prusament PETG |
+| 10    | holder-insert-no-mag.stl | Prusament PETG |
+| 11    | holder-bracket.stl       | Prusament PC Blend |
+| 12    | arm.stl                  | Prusament PC Blend |
+| 13    | slider-connector.stl     | Prusament PC Blend |
 
 ### Hardware
 
-| Index | Dedscription  |
+| Index | Description  |
 | ----- | ------------- |
 | 14    | Binder clip wire |
 | 15    | Vinyl decal - magnet side |
