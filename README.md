@@ -36,5 +36,5 @@ This work is licensed under the CC0 1.0 Universal license terms. Refer to the Li
 | 17    | Silicone ring cut to fit the holder insert channel; Scunci No-slip Grip Evolution Bright Jelly Ponytailers | [link](https://www.amazon.com/Scunci-28pk-Noslp-Evolution-Elastics/dp/B00H3R28C6/) |
 | 18    | Branding vinyl decal - non-magnet side; Cricut Premium Vynil True Brushed with logo cutout | [link](https://cricut.com/en_us/premium-vinyltm-true-brushed.html) |
 | 19    | 4-40 x 3/4 hex flat head cap screw | [link](https://www.mcmaster.com/socket-head-cap-screws/head-type~flat/thread-size~4-40/length~3-4-2/) |
-| 20    | 18-8 4-40 black oxide small pattern nut[l| ink](https://www.mcmaster.com/nuts/thread-size~4-40/finish~black-oxide/hex-nut-profile~narrow/) |
+| 20    | 18-8 4-40 black oxide small pattern nut | [link](https://www.mcmaster.com/nuts/thread-size~4-40/finish~black-oxide/hex-nut-profile~narrow/) |
 | 21    | Natural polyurethane double coated foam tape 1" width | [link](https://www.amazon.com/Mounting-Papercrafting-Projects-Adhesive-Converted/dp/B07MDM4X4C/) | 
