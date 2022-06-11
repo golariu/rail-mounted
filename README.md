@@ -1,10 +1,23 @@
-# RAIL MOUNTED
+# RAIL-MOUNTED PHONE HOLDER [web](https://www.rail-mounted.com)
 
 ## License
 
 This work is licensed under the CC0 1.0 Universal license terms. Refer to the License file in this directory for details.
 
 ![Rail-Mounted Phone Holde](art/rm.jpg)
+
+## Use
+
+Use on monitors and laptops, workbenches, in cars, on walls and furniture.
+
+## Benefits
+
+  - No knobs to tighten as there is no need to keep adjusting the viewing angle
+  - Holder rotates to expose either the main or the selfie camera
+  - Strong magnets keep the phone safe even with the metal plate inside the case
+  - Slider allows phone to rest on table to avoid small laptops (13") from falling backwards
+  - Customizable colors and color combinations
+  - Brandable face plates
 
 ## Components
 
